@@ -1,2 +1,0 @@
-# MACAUBAU
-Jogo de score
